@@ -17,13 +17,21 @@ This project is designed for **learning purposes**, especially for understanding
 ## 🎯 Features Implemented
 
 ✔ Load CSV data into memory (list of dictionaries)
+
 ✔ Interactive CLI (REPL) for executing queries
+
 ✔ `SELECT *` and column-based projection
+
 ✔ `WHERE` clause with single condition
+
 ✔ Supported operators: `=`, `!=`, `>`, `<`, `>=`, `<=`
+
 ✔ String and numeric comparisons
+
 ✔ Aggregation using `COUNT(*)` and `COUNT(column)`
+
 ✔ Table-style output with headers
+
 ✔ Clear error handling for invalid queries
 
 ---
@@ -140,10 +148,15 @@ Error: Missing FROM clause
 ## 🏁 Expected Outcomes (Satisfied)
 
 ✔ Functional CLI SQL engine
+
 ✔ Correct data projection (`*` and specific columns)
+
 ✔ Accurate filtering using WHERE
+
 ✔ Correct aggregation using COUNT
+
 ✔ Clear error messages
+
 ✔ Well-documented code and grammar specification
 
 ---
@@ -157,4 +170,5 @@ This project successfully demonstrates the **core principles behind SQL query ex
 ## 👤 Author
 
 **Jaswanth**
+
 Mini SQL Engine Project
